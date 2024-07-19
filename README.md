@@ -1,1 +1,19 @@
 # CODTECH-Task2
+
+**Name** : ANANTHA PADMANABAN C S
+
+**Company** : CODTECH IT SOLUTIONS
+
+**ID** : CT4VLSI2589
+
+**Domain** : VLSI(Very Large Scale Integration)
+
+**Duration** : 20 june 2024 - 20 july 2024
+
+**Mentor** : NEELA SANTHOSH KUMAR
+
+
+OVERVIEW OF THE PROJECT
+
+PROJECT : FINITE STATE MACHINE (FSM) DESIGN
+
